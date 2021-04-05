@@ -2,7 +2,7 @@
 
 Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다.
 
-- [[GAN] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)(2014) : [Review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN/blob/main/1_GAN.ipynb)
+- [[GAN] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)(2014) : [Review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Paper/blob/main/1_GAN.ipynb)
 
 - [[DCGAN] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)(2015) : [Review](https://happy-jihye.github.io/gan/gan-2/)
 
