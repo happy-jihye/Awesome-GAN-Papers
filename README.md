@@ -15,7 +15,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)(2019)
 
-- [[Progressive GAN] Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)(2018)
+- [[Progressive GAN] Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)(2018) : [Review](https://happy-jihye.github.io/gan/gan-5/)
 
 - [[StyleGAN] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)(2019)
     
