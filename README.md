@@ -17,7 +17,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[Progressive GAN] Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)(2018) : [Review](https://happy-jihye.github.io/gan/gan-5/)
 
-- [[StyleGAN] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)(2019)
+- [[StyleGAN] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)(2019) [Review](https://happy-jihye.github.io/gan/gan-6/)
     
     - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
 
