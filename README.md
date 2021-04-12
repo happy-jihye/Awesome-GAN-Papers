@@ -23,6 +23,14 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[StyleGAN2] Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)(2020)
 
+- [[Pix2Pix] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)(CVPR 2017)
+
+- [[SPADE] Semantic Image Synthesis with Spatially Adaptive Normalization](https://arxiv.org/abs/1903.07291)(CVPR 2019)
+
+- [[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)(ICCV 2017)
+
+- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)(CVPR 2018)
+
 
 ## Reference 
 - https://github.com/eriklindernoren/PyTorch-GAN
