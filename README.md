@@ -27,7 +27,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)(arXiv 2021)
 
-- [[Pix2Pix] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)(CVPR 2017)
+- [[Pix2Pix] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)(CVPR 2017) : [Review](https://happy-jihye.github.io/gan/gan-8/)
 
 - [[SPADE] Semantic Image Synthesis with Spatially Adaptive Normalization](https://arxiv.org/abs/1903.07291)(CVPR 2019)
 
