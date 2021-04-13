@@ -1,6 +1,6 @@
 # GAN
 
-Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다.
+Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다. 
 
 
 - [[GAN] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)(2014) : [Review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Paper/blob/main/1_GAN.ipynb)
@@ -22,6 +22,10 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
     - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
 
 - [[StyleGAN2] Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)(2020) : [Review](https://happy-jihye.github.io/gan/gan-7/)
+
+- [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544)(CVPR 2020)
+
+- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)(arXiv 2021)
 
 - [[Pix2Pix] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)(CVPR 2017)
 
