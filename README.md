@@ -19,7 +19,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[StyleGAN] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)(2019) : [Review](https://happy-jihye.github.io/gan/gan-6/)
     
-    - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
+  - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
 
 - [[StyleGAN2] Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)(2020) : [Review](https://happy-jihye.github.io/gan/gan-7/)
 
@@ -35,17 +35,18 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)(CVPR 2018)
 
+  - [[StarGAN v2] Diversity Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) (CVPR 2020)
+
 - [[BicycleGAN] Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586) (NIPS 2017)
 
 - [[MUNIT] Multi-Modal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (ECCV 2018)
 
 - [[DSGAN] Diversity-Sensitive Conditional Generative Adversarial Networks](https://arxiv.org/abs/1901.09024) (ICLR 2019)
 
-- [[StarGAN v2] Diversity Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) (CVPR 2020)
 
 - [[FUNIT] Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) (ICCV 2019)
 
-    - [[COCO-FUNIT] Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder](https://nvlabs.github.io/COCO-FUNIT/) (ECCV 2020)
+  - [[COCO-FUNIT] Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder](https://nvlabs.github.io/COCO-FUNIT/) (ECCV 2020)
 
 ## Reference 
 - https://github.com/eriklindernoren/PyTorch-GAN
