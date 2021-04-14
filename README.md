@@ -31,7 +31,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[SPADE] Semantic Image Synthesis with Spatially Adaptive Normalization](https://arxiv.org/abs/1903.07291)(CVPR 2019) : [Review](https://happy-jihye.github.io/gan/gan-9/)
 
-- [[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)(ICCV 2017)
+- [[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)(ICCV 2017) : [Review](https://happy-jihye.github.io/gan/gan-10/)
 
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)(CVPR 2018)
 
