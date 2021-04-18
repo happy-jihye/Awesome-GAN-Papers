@@ -11,7 +11,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396)(2016) : [Review](https://happy-jihye.github.io/gan/gan-4/)
 
-- [[ACGAN] Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)(2016)
+- [[ACGAN] Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)(ICML 2017) : [Review](https://happy-jihye.github.io/gan/gan-13/)
 
 - [[BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)(2019)
 
