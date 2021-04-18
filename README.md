@@ -33,7 +33,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)(ICCV 2017) : [Review](https://happy-jihye.github.io/gan/gan-10/)
 
-- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)(CVPR 2018)
+- [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)(CVPR 2018) : [Review](https://happy-jihye.github.io/gan/gan-12/)
 
   - [[StarGAN v2] Diversity Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) (CVPR 2020)
 
