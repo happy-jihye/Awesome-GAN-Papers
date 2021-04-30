@@ -22,6 +22,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
   - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
 
 - [[StyleGAN2] Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)(2020) : [Review](https://happy-jihye.github.io/gan/gan-7/)
+  - [[StyleGAN2-Ada] Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676) (2020)
 
 - [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544)(CVPR 2020)
 
