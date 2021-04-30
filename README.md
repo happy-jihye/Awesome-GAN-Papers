@@ -43,10 +43,19 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[DSGAN] Diversity-Sensitive Conditional Generative Adversarial Networks](https://arxiv.org/abs/1901.09024) (ICLR 2019)
 
-
 - [[FUNIT] Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) (ICCV 2019)
 
   - [[COCO-FUNIT] Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder](https://nvlabs.github.io/COCO-FUNIT/) (ECCV 2020)
+
+- [[SS-GAN] Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/abs/1811.11212?source=post_page---------------------------) (CVPR 2019)
+
+- [[CR-GAN] Consistency Regularization for Generative Adversarial Networks](https://arxiv.org/abs/1910.12027) (ICLR 2020)
+
+  - [[Improved CR-GAN] Improved Consistency Regularization for GANs](https://arxiv.org/abs/2002.04724) (AAAI 2021)
+
+- [[ContraD] Training GANs with Stronger Augmentations via Contrastive Discriminator](https://arxiv.org/abs/2103.09742) (ICLR 2021)
+
+- [[SC-GAN] Diverse Image Generation via Self-Conditioned GANs](https://arxiv.org/abs/2006.10728) (CVPR 2020)
 
 ## Reference 
 - https://github.com/eriklindernoren/PyTorch-GAN
