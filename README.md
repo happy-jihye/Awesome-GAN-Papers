@@ -40,8 +40,8 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - [[BicycleGAN] Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586) (NIPS 2017)
 
-- [[MUNIT] Multi-Modal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (ECCV 2018)
-
+- [[MUNIT] Multi-Modal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (ECCV 2018) : [Review](https://happy-jihye.github.io/gan/gan-14/)
+  
 - [[DSGAN] Diversity-Sensitive Conditional Generative Adversarial Networks](https://arxiv.org/abs/1901.09024) (ICLR 2019)
 
 - [[FUNIT] Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) (ICCV 2019)
