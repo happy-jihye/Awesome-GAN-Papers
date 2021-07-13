@@ -22,11 +22,11 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
   - [AdaIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)(2017)
 
 - [[StyleGAN2] Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)(2020) : [Review](https://happy-jihye.github.io/gan/gan-7/)
-  - [[StyleGAN2-Ada] Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676) (2020) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Papers/blob/main/gan/StyleGAN2_ADA_Pytorch.ipynb)
+  - [[StyleGAN2-Ada] Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676) (2020) :  [Review-1](https://happy-jihye.github.io/gan/gan-19/) [Review-20](https://happy-jihye.github.io/gan/gan-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Papers/blob/main/gan/StyleGAN2_ADA_Pytorch.ipynb)
 
 - [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544)(CVPR 2020)
 
-- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)(arXiv 2021)
+- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)(arXiv 2021) : [Review](https://happy-jihye.github.io/gan/gan-15/)
 
 - [[Pix2Pix] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)(CVPR 2017) : [Review](https://happy-jihye.github.io/gan/gan-8/)
 
@@ -57,6 +57,8 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 - [[ContraD] Training GANs with Stronger Augmentations via Contrastive Discriminator](https://arxiv.org/abs/2103.09742) (ICLR 2021)
 
 - [[SC-GAN] Diverse Image Generation via Self-Conditioned GANs](https://arxiv.org/abs/2006.10728) (CVPR 2020)
+
+- [[FSTH] Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233) (arixv 2019) : [Review](https://happy-jihye.github.io/gan/gan-22/)
 
 ## Reference 
 - https://github.com/eriklindernoren/PyTorch-GAN
