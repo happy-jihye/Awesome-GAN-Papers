@@ -1,6 +1,4 @@
-# GAN
-
-Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다. 
+# Generative Adversarial Networks 
 
 
 
