@@ -8,7 +8,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 <span style='background-color: #E5EBF7;'> **GAN Basics** </span>
 
-- GAN: Generative Adversarial Networks (2014) : [arxiv](https://arxiv.org/abs/1406.2661), [review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Paper/blob/main/gan/1_GAN.ipynb)
+- GAN: Generative Adversarial Networks (2014) : [arxiv](https://arxiv.org/abs/1406.2661), [review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Paper/blob/main/gan/gan.ipynb)
 
 - DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (ICLR 2016)  : [arxiv](https://arxiv.org/abs/1511.06434), [review](https://happy-jihye.github.io/gan/gan-2/)
 
@@ -48,7 +48,7 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
   - StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN (2020) : [arxiv](https://arxiv.org/abs/1912.04958), [review](https://happy-jihye.github.io/gan/gan-7/)
   
-  - Training Generative Adversarial Networks with Limited Data (NeurlPS 2020) : [arxiv](https://arxiv.org/abs/2006.06676)  : review [#01](https://happy-jihye.github.io/gan/gan-19/), [#02](https://happy-jihye.github.io/gan/gan-20/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Papers/blob/main/gan/StyleGAN2_ADA_Pytorch.ipynb)
+  - Training Generative Adversarial Networks with Limited Data (NeurlPS 2020) : [arxiv](https://arxiv.org/abs/2006.06676)  : review [#01](https://happy-jihye.github.io/gan/gan-19/), [#02](https://happy-jihye.github.io/gan/gan-20/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Papers/blob/main/gan/stylegan2-ada.ipynb)
 
 - BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis (2019) : [arxiv](https://arxiv.org/abs/1809.11096) 
 
@@ -75,10 +75,10 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
    - Image2stylegan: How to embed images into the stylegan latent space? (ICCV 2019) : [arxiv](https://arxiv.org/abs/1904.03189), [review](https://happy-jihye.github.io/gan/gan-23/)
    - Image2stylegan++: How to edit the embedded images? (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.11544)
 2. **Encoder**
-   - ALAE: Adversarial latent autoencoders : [github](https://github.com/podgorskiy/ALAE)
-   - pSp: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [review](https://happy-jihye.github.io/gan/gan-23/)
+   - ALAE: Adversarial latent autoencoders : [code](https://github.com/podgorskiy/ALAE)
+   - pSp: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [code](https://happy-jihye.github.io/gan/gan-23/)
 3. **Hybrid approach**
-   - stylegan-encoder : [Github](https://github.com/pbaylies/stylegan-encoder)
+   - stylegan-encoder : [code](https://github.com/pbaylies/stylegan-encoder)
    - IdInvert : In-Domain GAN Inversion for Real Image Editing (ECCV 2020) : [arxiv](https://arxiv.org/abs/2004.00049), [review](https://happy-jihye.github.io/gan/gan-23/)
 
 <span style='background-color: #E5EBF7;'> **Disentangled Manipulation** </span>
