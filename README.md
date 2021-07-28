@@ -57,6 +57,8 @@ Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다
 
 - Generative Adversarial Text to Image Synthesis (ICML 2016) : [arxiv](https://arxiv.org/abs/1605.05396), [review](https://happy-jihye.github.io/gan/gan-4/)
 
+- TediGAN: Text-Guided Diverse Face Image Generation and Manipulation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2012.03308), [code](https://github.com/IIGROUP/TediGAN)
+
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery (arXiv 2021) : [arxiv](https://arxiv.org/abs/2103.17249), [review](https://happy-jihye.github.io/gan/gan-15/)
 
 <span style='background-color: #E5EBF7;'> **Improved Training Techniques** </span>
