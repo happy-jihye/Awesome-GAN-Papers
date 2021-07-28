@@ -3,14 +3,6 @@
 Generative Adversarial Networks 관련 paper들과 해당 논문 review입니다. 
 
 
----
-title: " 🦓 GAN-Zoos! "
-permalink: /gan/
-toc_sticky: true
-toc_ads : true
-layout: single
----
-  
 
 ---
 
