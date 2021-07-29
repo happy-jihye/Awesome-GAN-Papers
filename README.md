@@ -77,7 +77,7 @@
    - pSp: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [code](https://happy-jihye.github.io/gan/gan-23/)
 3. **Hybrid approach**
    - stylegan-encoder : [code](https://github.com/pbaylies/stylegan-encoder)
-   - IdInvert : In-Domain GAN Inversion for Real Image Editing (ECCV 2020) : [arxiv](https://arxiv.org/abs/2004.00049), [review](https://happy-jihye.github.io/gan/gan-23/)
+   - IdInvert : In-Domain GAN Inversion for Real Image Editing (ECCV 2020) : [arxiv](https://arxiv.org/abs/2004.00049), [review](https://happy-jihye.github.io/gan/gan-23/), [code](https://github.com/happy-jihye/GAN/tree/main/In-Domain-GAN)
 
 <span style='background-color: #E5EBF7;'> **Disentangled Manipulation** </span>
 
