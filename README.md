@@ -96,14 +96,15 @@
 - EigenGAN: Layer-Wise Eigen-Learning for GANs : [arxiv](https://arxiv.org/abs/2104.12476), [code](https://github.com/bryandlee/eigengan-pytorch)
 - StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.14754), [code](https://github.com/naver-ai/StyleMapGAN)
 - SEAN: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.12861), [code](https://github.com/ZPdesu/SEAN)
-
-
+- Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d), [project](https://cassiepython.github.io/sigasia/cddfm3d.html)
 
 
 <span style='background-color: #E5EBF7;'> **Talking Head** </span>
 
 - Few-Shot Adversarial Learning of Realistic Neural Talking Head Models (arxiv 2019) : [arxiv](https://arxiv.org/abs/1905.08233) : [review](https://happy-jihye.github.io/gan/gan-22/)
 - Neural Head Reenactment with Latent Pose Descriptors (IEEE 2020) : [arxiv](https://arxiv.org/abs/2004.12000)  
+- FOMM: First Order Motion Model for Image Animation (NeurIPS 2019) : [arxiv](https://arxiv.org/abs/2003.00196), [code](https://github.com/AliaksandrSiarohin/first-order-model)
+- Motion Representations for Articulated Animation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.11280), [code](https://github.com/snap-research/articulated-animation), [project](https://snap-research.github.io/articulated-animation/)
 
 
 ---
