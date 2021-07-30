@@ -7,6 +7,7 @@
 ---
 
 #### Result
+<p align='center'><img src='imgs/6_105.gif' width = '900' ></p>
 
 **Eye**
 <p align='center'><img src='imgs/eye.png' width = '900' ></p>
