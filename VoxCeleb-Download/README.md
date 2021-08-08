@@ -76,7 +76,7 @@
 
     python3 vox2_data.py --id=[id]  --video_dir=[dir] --download_video
 
-    # 2. Extract Frame Images from all Videos : --frame_by_txt
+    # 2. Extract Frame Images from all Videos : --video_to_frame
     # ex) python3 vox2_data.py --id=id00428  --video_dir=video_txt --download_video --video_to_frame
     python3 vox2_data.py --id=[id]  --video_dir=[dir] --video_to_frame
 
