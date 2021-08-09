@@ -6,7 +6,7 @@
 
 <span style='background-color: #E5EBF7;'> **GAN Basics** </span>
 
-- `GAN`: Generative Adversarial Networks (2014) : [arxiv](https://arxiv.org/abs/1406.2661), [review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN/blob/main/gan/gan.ipynb)
+- `GAN`: Generative Adversarial Networks (NIPS 2014) : [arxiv](https://arxiv.org/abs/1406.2661), [review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN/blob/main/gan/gan.ipynb)
 
 - `DCGAN`: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (ICLR 2016)  : [arxiv](https://arxiv.org/abs/1511.06434), [review](https://happy-jihye.github.io/gan/gan-2/)
 
@@ -16,18 +16,18 @@
 
 - `ACGAN`: Conditional Image Synthesis With Auxiliary Classifier GANs (ICML 2017) : [arxiv](https://arxiv.org/abs/1610.09585), [review](https://happy-jihye.github.io/gan/gan-13/)
 
-- **Pair Dataset** 
+- **Supervised Approach** 
 
   - `Pix2Pix`: Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017) : [arxiv](https://arxiv.org/abs/1611.07004), [review](https://happy-jihye.github.io/gan/gan-8/)
-
+  - `GAN Dissection`: Visualizing and Understanding Generative Adversarial Networks (ICLR 2019) : [arxiv](https://arxiv.org/abs/1811.10597), [project page](https://gandissect.csail.mit.edu/)
   - `SPADE`: Semantic Image Synthesis with Spatially Adaptive Normalization (CVPR 2019) : [arxiv](https://arxiv.org/abs/1903.07291), [review](https://happy-jihye.github.io/gan/gan-9/)
 
-- **Unpair Dataset** 
+- **Unsupervised Approach** 
 
   - `CycleGAN`: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (ICCV 2017) : [arxiv](https://arxiv.org/abs/1703.10593), [review](https://happy-jihye.github.io/gan/gan-10/)
   - `FUNIT`: Few-Shot Unsupervised Image-to-Image Translation (ICCV 2019) : [arxiv](https://arxiv.org/abs/1905.01723)
   - `COCO-FUNIT`: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder (ECCV 2020) : [arxiv](https://nvlabs.github.io/COCO-FUNIT/) 
-
+  - `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [project page](https://genforce.github.io/higan/)
 
 - **Multi Domain**
   - `BicycleGAN`: Toward Multimodal Image-to-Image Translation (NIPS 2017) : [arxiv](https://arxiv.org/abs/1711.11586) 
@@ -59,6 +59,9 @@
 
 - `StyleCLIP`: Text-Driven Manipulation of StyleGAN Imagery (arXiv 2021) : [arxiv](https://arxiv.org/abs/2103.17249), [review](https://happy-jihye.github.io/gan/gan-15/)
 
+- `DALLE`: Zero-Shot Text-to-Image Generation (ICML 2021) : [arxiv](https://arxiv.org/abs/2102.12092), [project page](https://openai.com/blog/dall-e/)
+- Paint by Word (2021) : [arxiv](https://arxiv.org/abs/2103.10951)
+
 <span style='background-color: #E5EBF7;'> **Improved Training Techniques** </span>
 
 - `SS-GAN`: Self-Supervised GANs via Auxiliary Rotation Loss (CVPR 2019) : [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.pdf), [review](https://happy-jihye.github.io/gan/gan-16/)
@@ -72,8 +75,10 @@
 1. **Latent Optimization**
    - `Image2stylegan`: How to embed images into the stylegan latent space? (ICCV 2019) : [arxiv](https://arxiv.org/abs/1904.03189), [review](https://happy-jihye.github.io/gan/gan-23/)
    - `Image2stylegan++`: How to edit the embedded images? (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.11544)
+   - `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [project page](https://rameenabdal.github.io/StyleFlow/)
+
 2. **Encoder**
-   - `ALAE`: Adversarial latent autoencoders : [code](https://github.com/podgorskiy/ALAE)
+   - `ALAE`: Adversarial latent autoencoders (CVPR 2020) : [arxiv](https://arxiv.org/abs/2004.04467), [code](https://github.com/podgorskiy/ALAE)
    - `pSp`: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [code](https://happy-jihye.github.io/gan/gan-23/)
 3. **Hybrid approach**
    - `stylegan-encoder` : [code](https://github.com/pbaylies/stylegan-encoder)
@@ -84,10 +89,13 @@
 - `GANSpace`: Discovering Interpretable GAN Controls (NeurIPS 2020) : [arxiv](https://arxiv.org/abs/2004.02546), [code](https://github.com/harskish/ganspace)
 - `GAN-Latent-Discovery`: Unsupervised Discovery of Interpretable Directions in the GAN Latent Space (2020) : [arxiv](https://arxiv.org/abs/2002.03754), [code](https://github.com/anvoynov/GANLatentDiscovery)
 - `Editing in style`: Uncovering the Local Semantics of GANs (CVPR 2020) : [arxiv](https://arxiv.org/abs/2004.14367), [code](https://github.com/IVRL/GANLocalEditing)
-- `InterFaceGAN` Interpreting the Disentangled Face Representation Learned by GANs (TPAMI 2020) : [arxiv](https://arxiv.org/abs/2005.09635)
+- `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [project page](https://genforce.github.io/higan/)
+- `InterFaceGAN`: Interpreting the Latent Space of GANs for Semantic Face Editing (CVPR 2020) : [arxiv](https://arxiv.org/abs/1907.10786), [project page](https://genforce.github.io/interfacegan/)
 - `CD3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d)
+- `GHFeat`: Generative Hierarchical Features from Synthesizing Images (CVPR 2021) : [arxiv](https://arxiv.org/abs/2007.10379), [project page](https://genforce.github.io/ghfeat/)
 - `StyleSpace`: StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation (2021) : [arxiv](https://arxiv.org/abs/2011.12799), [code](https://github.com/xrenaa/StyleSpace-pytorch), [code2](https://github.com/happy-jihye/GAN/tree/main/StyleSpace)
-
+- `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [project page](https://rameenabdal.github.io/StyleFlow/)
+- `Hessian Penalty`: A weak prior for unsupervised disentanglement (ECCV 2020) : [arxiv](https://arxiv.org/abs/2008.10599), [project page](https://www.wpeebles.com/hessian-penalty)
 
 <span style='background-color: #E5EBF7;'> **Image Editing** </span>
 
@@ -106,6 +114,15 @@
 - `FOMM`: First Order Motion Model for Image Animation (NeurIPS 2019) : [arxiv](https://arxiv.org/abs/2003.00196), [code](https://github.com/AliaksandrSiarohin/first-order-model)
 - Motion Representations for Articulated Animation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.11280), [code](https://github.com/snap-research/articulated-animation), [project](https://snap-research.github.io/articulated-animation/)
 
+<span style='background-color: #E5EBF7;'> **3D GAN** </span>
+
+- `CDDFM3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d), [project](https://cassiepython.github.io/sigasia/cddfm3d.html)
+- `StyleGANRender`: Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering (ICLR 2021) : [arxiv](https://arxiv.org/abs/2010.09125), [project page](https://nv-tlabs.github.io/GANverse3D/)
+
+
+<span style='background-color: #E5EBF7;'> **Novel View Synthesis** </span>
+
+- `NeRF`: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020) : [arxiv](https://arxiv.org/abs/2003.08934), [project page](https://www.matthewtancik.com/nerf)
 
 ---
 
