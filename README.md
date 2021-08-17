@@ -19,7 +19,7 @@
 - **Supervised Approach** 
 
   - `Pix2Pix`: Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017) : [arxiv](https://arxiv.org/abs/1611.07004), [review](https://happy-jihye.github.io/gan/gan-8/)
-  - `GAN Dissection`: Visualizing and Understanding Generative Adversarial Networks (ICLR 2019) : [arxiv](https://arxiv.org/abs/1811.10597), [project page](https://gandissect.csail.mit.edu/)
+  - `GAN Dissection`: Visualizing and Understanding Generative Adversarial Networks (ICLR 2019) : [arxiv](https://arxiv.org/abs/1811.10597), [review](https://happy-jihye.github.io/gan/gan-25/#111-gan-dissection, [project page](https://gandissect.csail.mit.edu/)
   - `SPADE`: Semantic Image Synthesis with Spatially Adaptive Normalization (CVPR 2019) : [arxiv](https://arxiv.org/abs/1903.07291), [review](https://happy-jihye.github.io/gan/gan-9/)
 
 - **Unsupervised Approach** 
@@ -27,7 +27,7 @@
   - `CycleGAN`: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (ICCV 2017) : [arxiv](https://arxiv.org/abs/1703.10593), [review](https://happy-jihye.github.io/gan/gan-10/)
   - `FUNIT`: Few-Shot Unsupervised Image-to-Image Translation (ICCV 2019) : [arxiv](https://arxiv.org/abs/1905.01723)
   - `COCO-FUNIT`: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder (ECCV 2020) : [arxiv](https://nvlabs.github.io/COCO-FUNIT/) 
-  - `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [project page](https://genforce.github.io/higan/)
+  - `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [review](https://happy-jihye.github.io/gan/gan-25/#121-higan), [project page](https://genforce.github.io/higan/)
 
 - **Multi Domain**
   - `BicycleGAN`: Toward Multimodal Image-to-Image Translation (NIPS 2017) : [arxiv](https://arxiv.org/abs/1711.11586) 
@@ -75,37 +75,37 @@
 1. **Latent Optimization**
    - `Image2stylegan`: How to embed images into the stylegan latent space? (ICCV 2019) : [arxiv](https://arxiv.org/abs/1904.03189), [review](https://happy-jihye.github.io/gan/gan-23/)
    - `Image2stylegan++`: How to edit the embedded images? (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.11544)
-   - `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [project page](https://rameenabdal.github.io/StyleFlow/)
+   - `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [review](https://happy-jihye.github.io/gan/gan-25/#123-styleflow), [project page](https://rameenabdal.github.io/StyleFlow/)
 
 2. **Encoder**
    - `ALAE`: Adversarial latent autoencoders (CVPR 2020) : [arxiv](https://arxiv.org/abs/2004.04467), [code](https://github.com/podgorskiy/ALAE)
-   - `pSp`: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [code](https://happy-jihye.github.io/gan/gan-23/)
+   - `pSp`: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2008.00951), [review](https://happy-jihye.github.io/gan/gan-23/#3-psp--pixel2style2pixel), [code](https://happy-jihye.github.io/gan/gan-23/)
 3. **Hybrid approach**
    - `stylegan-encoder` : [code](https://github.com/pbaylies/stylegan-encoder)
    - `IdInvert` : In-Domain GAN Inversion for Real Image Editing (ECCV 2020) : [arxiv](https://arxiv.org/abs/2004.00049), [review](https://happy-jihye.github.io/gan/gan-23/), [code](https://github.com/happy-jihye/GAN/tree/main/In-Domain-GAN)
 
 <span style='background-color: #E5EBF7;'> **Disentangled Manipulation** </span>
 
-- `GANSpace`: Discovering Interpretable GAN Controls (NeurIPS 2020) : [arxiv](https://arxiv.org/abs/2004.02546), [code](https://github.com/harskish/ganspace)
+- `GANSpace`: Discovering Interpretable GAN Controls (NeurIPS 2020) : [arxiv](https://arxiv.org/abs/2004.02546), [review](https://happy-jihye.github.io/gan/gan-25/#22-ganspace), [code](https://github.com/harskish/ganspace)
 - `GAN-Latent-Discovery`: Unsupervised Discovery of Interpretable Directions in the GAN Latent Space (2020) : [arxiv](https://arxiv.org/abs/2002.03754), [code](https://github.com/anvoynov/GANLatentDiscovery)
 - `Editing in style`: Uncovering the Local Semantics of GANs (CVPR 2020) : [arxiv](https://arxiv.org/abs/2004.14367), [code](https://github.com/IVRL/GANLocalEditing)
-- `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [project page](https://genforce.github.io/higan/)
-- `InterFaceGAN`: Interpreting the Latent Space of GANs for Semantic Face Editing (CVPR 2020) : [arxiv](https://arxiv.org/abs/1907.10786), [project page](https://genforce.github.io/interfacegan/)
-- `CD3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d)
+- `HiGAN`: Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (IJCV 2020) : [arxiv](https://arxiv.org/abs/1911.09267), [review](https://happy-jihye.github.io/gan/gan-25/#121-higan), [project page](https://genforce.github.io/higan/)
+- `InterFaceGAN`: Interpreting the Latent Space of GANs for Semantic Face Editing (CVPR 2020) : [arxiv](https://arxiv.org/abs/1907.10786), [review](https://happy-jihye.github.io/gan/gan-25/#122-interfacegan), [project page](https://genforce.github.io/interfacegan/)
+- `CD3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [review](https://happy-jihye.github.io/gan/gan-24/), [code](https://github.com/cassiePython/cddfm3d)
 - `GHFeat`: Generative Hierarchical Features from Synthesizing Images (CVPR 2021) : [arxiv](https://arxiv.org/abs/2007.10379), [project page](https://genforce.github.io/ghfeat/)
 - `StyleSpace`: StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation (2021) : [arxiv](https://arxiv.org/abs/2011.12799), [code](https://github.com/xrenaa/StyleSpace-pytorch), [code2](https://github.com/happy-jihye/GAN/tree/main/StyleSpace)
-- `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [project page](https://rameenabdal.github.io/StyleFlow/)
+- `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [review](https://happy-jihye.github.io/gan/gan-25/#123-styleflow), [project page](https://rameenabdal.github.io/StyleFlow/)
 - `Hessian Penalty`: A weak prior for unsupervised disentanglement (ECCV 2020) : [arxiv](https://arxiv.org/abs/2008.10599), [project page](https://www.wpeebles.com/hessian-penalty)
 
 <span style='background-color: #E5EBF7;'> **Image Editing** </span>
 
 - `StyleCLIP`: Text-Driven Manipulation of StyleGAN Imagery (arXiv 2021) : [arxiv](https://arxiv.org/abs/2103.17249), [review](https://happy-jihye.github.io/gan/gan-15/), [code](https://github.com/orpatashnik/StyleCLIP)
-- `sefa`: Closed-Form Factorization of Latent Semantics in GANs (CVPR 2021) : [arxiv](https://arxiv.org/abs/2007.06600), [code](https://github.com/happy-jihye/GAN/tree/main/SEFA)
-- `EigenGAN`: Layer-Wise Eigen-Learning for GANs : [arxiv](https://arxiv.org/abs/2104.12476), [code](https://github.com/bryandlee/eigengan-pytorch)
+- `sefa`: Closed-Form Factorization of Latent Semantics in GANs (CVPR 2021) : [arxiv](https://arxiv.org/abs/2007.06600), [review](https://happy-jihye.github.io/gan/gan-25/#21-sefa), [code](https://github.com/happy-jihye/GAN/tree/main/SEFA)
+- `EigenGAN`: Layer-Wise Eigen-Learning for GANs : [arxiv](https://arxiv.org/abs/2104.12476), [review]https://happy-jihye.github.io/gan/gan-25/#24-eigengan), [code](https://github.com/bryandlee/eigengan-pytorch)
 - `StyleMapGAN`: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.14754), [code](https://github.com/naver-ai/StyleMapGAN)
 - `SEAN`: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.12861), [code](https://github.com/ZPdesu/SEAN)
 - `CDDFM3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d), [project](https://cassiepython.github.io/sigasia/cddfm3d.html)
-
+- `MocoGAN-HD`: A Good Image Generator Is What You Need for High-Resolution Video Synthesis (ICLR 2021) : [arxiv](https://arxiv.org/abs/2104.15069), [review](https://happy-jihye.github.io/gan/gan-27/), [code](https://github.com/snap-research/MoCoGAN-HD), [project](https://bluer555.github.io/MoCoGAN-HD/)
 
 <span style='background-color: #E5EBF7;'> **Talking Head** </span>
 
@@ -113,6 +113,7 @@
 - `LPD`: Neural Head Reenactment with Latent Pose Descriptors (IEEE 2020) : [arxiv](https://arxiv.org/abs/2004.12000)  
 - `FOMM`: First Order Motion Model for Image Animation (NeurIPS 2019) : [arxiv](https://arxiv.org/abs/2003.00196), [code](https://github.com/AliaksandrSiarohin/first-order-model)
 - Motion Representations for Articulated Animation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.11280), [code](https://github.com/snap-research/articulated-animation), [project](https://snap-research.github.io/articulated-animation/)
+- `MocoGAN-HD`: A Good Image Generator Is What You Need for High-Resolution Video Synthesis (ICLR 2021) : [arxiv](https://arxiv.org/abs/2104.15069), [review](https://happy-jihye.github.io/gan/gan-27/), [code](https://github.com/snap-research/MoCoGAN-HD), [project](https://bluer555.github.io/MoCoGAN-HD/)
 
 <span style='background-color: #E5EBF7;'> **3D GAN** </span>
 
