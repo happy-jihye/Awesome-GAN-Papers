@@ -1,9 +1,6 @@
 # Generative Adversarial Networks 
 
 
-
----
-
 <span style='background-color: #E5EBF7;'> **GAN Basics** </span>
 
 - `GAN`: Generative Adversarial Networks (NIPS 2014) : [arxiv](https://arxiv.org/abs/1406.2661), [review](https://happy-jihye.github.io/gan/gan-1/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN/blob/main/gan/gan.ipynb)
@@ -90,6 +87,7 @@
 - `StyleSpace`: StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation (2021) : [arxiv](https://arxiv.org/abs/2011.12799), [code](https://github.com/xrenaa/StyleSpace-pytorch), [code2](https://github.com/happy-jihye/GAN/tree/main/StyleSpace)
 - `StyleFlow`: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021) : [arxiv](https://arxiv.org/abs/2008.02401), [review](https://happy-jihye.github.io/gan/gan-25/#123-styleflow), [project page](https://rameenabdal.github.io/StyleFlow/)
 - `Hessian Penalty`: A weak prior for unsupervised disentanglement (ECCV 2020) : [arxiv](https://arxiv.org/abs/2008.10599), [project page](https://www.wpeebles.com/hessian-penalty)
+- `StyleGAN of All Trades`: Image Manipulation with Only Pretrained StyleGAN (arxiv 2021) : [arxiv](https://arxiv.org/abs/2111.01619), [code](https://github.com/mchong6/SOAT)
 
 <span style='background-color: #E5EBF7;'> **Image Editing** </span>
 
@@ -100,16 +98,24 @@
 - `SEAN`: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020) : [arxiv](https://arxiv.org/abs/1911.12861), [code](https://github.com/ZPdesu/SEAN)
 - `CDDFM3D`: Cross-Domain and Disentangled Face Manipulation with 3D Guidance (2021) : [arxiv](https://arxiv.org/abs/2104.11228), [code](https://github.com/cassiePython/cddfm3d), [project](https://cassiepython.github.io/sigasia/cddfm3d.html)
 - `MocoGAN-HD`: A Good Image Generator Is What You Need for High-Resolution Video Synthesis (ICLR 2021) : [arxiv](https://arxiv.org/abs/2104.15069), [review](https://happy-jihye.github.io/gan/gan-27/), [code](https://github.com/snap-research/MoCoGAN-HD), [project](https://bluer555.github.io/MoCoGAN-HD/)
+- `StyleGAN-NADA`: CLIP-Guided Domain Adaptation of Image Generators (arxiv 2021) : [arxiv](https://arxiv.org/abs/2108.00946), [project](https://stylegan-nada.github.io/), [code](https://arxiv.org/abs/2108.00946)
+- `HyperStyle`: StyleGAN Inversion with HyperNetworks for Real Image Editing (arxiv 2021) : [arxiv](https://arxiv.org/abs/2111.15666), [code](https://github.com/yuval-alaluf/hyperstyle)
 
 
-<span style='background-color: #E5EBF7;'> **Webtoon/Anime GAN / Image Blending ** </span>
+<span style='background-color: #E5EBF7;'> **Webtoon/Anime GAN & Image Blending** </span>
 
 - `Cartoon-StylaGAN`: Fine-tuning StyleGAN2 for Cartoon Face Generation (arxiv 2021) : [arxiv](https://arxiv.org/abs/2106.12445), [review](https://happy-jihye.github.io/gan/gan-21/), [code](https://github.com/happy-jihye/Cartoon-StyleGAN)
 - `BlendGAN`: Implicitly GAN Blending for Arbitrary Stylized Face Generation (NeurIPS 2021) : [arxiv](https://arxiv.org/abs/2110.11728), [project](https://onion-liu.github.io/BlendGAN/), [code](https://github.com/onion-liu/BlendGAN)
 - `HifiFace`: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping (IJCAI 2021) : [arxiv](https://arxiv.org/abs/2106.09965)
 - `AnimeGAN`: A Novel Lightweight GAN for Photo Animation (ISICA 2019)
   - `AnimeGANv2` (2021) : [project](https://tachibanayoshino.github.io/AnimeGANv2/), [code](https://github.com/bryandlee/animegan2-pytorch)
+- `StyleGAN of All Trades`: Image Manipulation with Only Pretrained StyleGAN (arxiv 2021) : [arxiv](https://arxiv.org/abs/2111.01619), [code](https://github.com/mchong6/SOAT)
 
+
+<span style='background-color: #E5EBF7;'> **Super Resolution** </span>
+
+- `BSRGAN`: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution (ICCV 2021) : [arxiv](https://arxiv.org/abs/2103.14006), [code](https://github.com/cszn/BSRGAN)
+- `Real-ESRGAN`: Training Real-World Blind Super-Resolution with Pure Synthetic Data (ICCVW 2021): [arxiv](https://arxiv.org/abs/2107.10833), [code](https://github.com/xinntao/Real-ESRGAN)
 
 <span style='background-color: #E5EBF7;'> **3D GAN & Rendering** </span>
 
@@ -121,9 +127,10 @@
 - `StyleNeRF`: A Style-based 3D Aware Generator for High-resolution Image Synthesis (ICLR 2022): [paper](https://openreview.net/forum?id=iUuzzTMUw9K)
   - `NeRF`: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020) : [arxiv](https://arxiv.org/abs/2003.08934), [project](https://www.matthewtancik.com/nerf)
 - `CIPS-3D`: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis (arxiv 2021): [arxiv](https://arxiv.org/abs/2110.09788), [code](https://github.com/PeterouZh/CIPS-3D)
+- `PIRenderer`: Controllable Portrait Image Generation via Semantic Neural Rendering (ICCV 2021) : [arxiv](https://arxiv.org/abs/2109.08379), [project](https://renyurui.github.io/PIRender_web/), [code](https://github.com/RenYurui/PIRender)
 
 
-## 😊 Talking Head : [Paper list](https://stream-chameleon-81c.notion.site/1fa3a78b6c54415784175c50eddfe3cc?v=ddc7ecf4fb0f484d8a98cb7da3fd1ea5)
+## Talking Head : [Paper list](https://stream-chameleon-81c.notion.site/1fa3a78b6c54415784175c50eddfe3cc?v=ddc7ecf4fb0f484d8a98cb7da3fd1ea5)
 
 
 - `MocoGAN-HD`: A Good Image Generator Is What You Need for High-Resolution Video Synthesis (ICLR 2021) : [arxiv](https://arxiv.org/abs/2104.15069), [review](https://happy-jihye.github.io/gan/gan-27/), [code](https://github.com/snap-research/MoCoGAN-HD), [project](https://bluer555.github.io/MoCoGAN-HD/)
@@ -142,6 +149,7 @@
 - `FOMM`: First Order Motion Model for Image Animation (NeurIPS 2019) : [arxiv](https://arxiv.org/abs/2003.00196), [review](https://happy-jihye.github.io/gan/gan-29/#fomm-first-order-motion-model-for-image-animation-neurips-2019), [code](https://github.com/AliaksandrSiarohin/first-order-model)
 - `face vid2vid`: One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (CVPR 2021): [arxiv](https://arxiv.org/abs/2011.15126), [project](https://nvlabs.github.io/face-vid2vid/)
 - `articulated animation`: Motion Representations for Articulated Animation (CVPR 2021) : [arxiv](https://arxiv.org/abs/2104.11280), [code](https://github.com/snap-research/articulated-animation), [project](https://snap-research.github.io/articulated-animation/)
+- `SAFA`: Structure Aware Face Animation (3DV2021) : [arxiv](https://arxiv.org/abs/2111.04928), [code](https://github.com/Qiulin-W/SAFA)
 
 
 ---
