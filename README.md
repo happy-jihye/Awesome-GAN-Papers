@@ -15,7 +15,7 @@
 
   - `Pix2Pix`: Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017) : [arxiv](https://arxiv.org/abs/1611.07004), [review](https://happy-jihye.github.io/gan/gan-8/)
   - `GAN Dissection`: Visualizing and Understanding Generative Adversarial Networks (ICLR 2019) : [arxiv](https://arxiv.org/abs/1811.10597), [review](https://happy-jihye.github.io/gan/gan-25/#111-gan-dissection), [project page](https://gandissect.csail.mit.edu/)
-  - `SPADE`: Semantic Image Synthesis with Spatially Adaptive Normalization (CVPR 2019) : [arxiv](https://arxiv.org/abs/1903.07291), [review](https://happy-jihye.github.io/gan/gan-9/)
+  - `GauGAN`: Semantic Image Synthesis with Spatially Adaptive Normalization (SPADE) (CVPR 2019) : [arxiv](https://arxiv.org/abs/1903.07291), [review](https://happy-jihye.github.io/gan/gan-9/)
 
 - **Unsupervised Approach** 
 
@@ -27,7 +27,7 @@
 - **Multi Domain**
   - `BicycleGAN`: Toward Multimodal Image-to-Image Translation (NIPS 2017) : [arxiv](https://arxiv.org/abs/1711.11586) 
   - `StarGAN`: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018) : [arxiv](https://arxiv.org/abs/1711.09020), [review](https://happy-jihye.github.io/gan/gan-12/)
-    - `StarGAN v2`: Diversity Image Synthesis for Multiple Domains (CVPR 2020) : [arxiv](https://arxiv.org/abs/1912.01865) 
+   - `StarGAN v2`: Diversity Image Synthesis for Multiple Domains (CVPR 2020) : [arxiv](https://arxiv.org/abs/1912.01865) 
 
   - `MUNIT` : Multi-Modal Unsupervised Image-to-Image Translation (ECCV 2018) : [arxiv](https://arxiv.org/abs/1804.04732), [review](https://happy-jihye.github.io/gan/gan-14/) 
   
@@ -39,7 +39,8 @@
 - `StyleGAN`: A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019) : [arxiv](https://arxiv.org/abs/1812.04948), [review](https://happy-jihye.github.io/gan/gan-6/)
   - `StyleGAN v2`: Analyzing and Improving the Image Quality of StyleGAN (CVPR 2020) : [arxiv](https://arxiv.org/abs/1912.04958), [review](https://happy-jihye.github.io/gan/gan-7/)
   - `StyleGAN-ADA`: Training Generative Adversarial Networks with Limited Data (NeurlPS 2020) : [arxiv](https://arxiv.org/abs/2006.06676)  : review [#01](https://happy-jihye.github.io/gan/gan-19/), [#02](https://happy-jihye.github.io/gan/gan-20/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/GAN-Papers/blob/main/gan/stylegan2-ada.ipynb)
-  - `StyleGAN v3`: Alias-Free Generative Adversarial Networks (NeurIPS 2021) : ([arxiv](https://arxiv.org/abs/2106.12423), [code](https://github.com/NVlabs/stylegan3), [project](https://nvlabs.github.io/alias-free-gan/)), [review](https://happy-jihye.github.io/gan/gan-33/)
+  - `StyleGAN v3`: Alias-Free Generative Adversarial Networks (NeurIPS 2021) : [arxiv](https://arxiv.org/abs/2106.12423), [code](https://github.com/NVlabs/stylegan3), [project](https://nvlabs.github.io/alias-free-gan/), [review](https://happy-jihye.github.io/gan/gan-33/)
+   - `StyleGAN3-Editing`: Third Time’s the Charm? Image and Video Editing with StyleGAN3 (arxiv 2022) : [arxiv](https://arxiv.org/abs/2201.13433), [project](https://yuval-alaluf.github.io/stylegan3-editing/), [code](https://github.com/yuval-alaluf/stylegan3-editing), [review](https://happy-jihye.github.io/gan/gan-35/)
 
 - `BigGAN`: Large Scale GAN Training for High Fidelity Natural Image Synthesis (2019) : [arxiv](https://arxiv.org/abs/1809.11096), [code](https://github.com/ajbrock/BigGAN-PyTorch)
 
@@ -104,7 +105,7 @@
 
 <span style='background-color: #E5EBF7;'> **Webtoon/Anime GAN & Image Blending** </span>
 
-- `Cartoon-StylaGAN`: Fine-tuning StyleGAN2 for Cartoon Face Generation (arxiv 2021) : [arxiv](https://arxiv.org/abs/2106.12445), [review](https://happy-jihye.github.io/gan/gan-21/), [code](https://github.com/happy-jihye/Cartoon-StyleGAN)
+- `Cartoon-StyleGAN`: Fine-tuning StyleGAN2 for Cartoon Face Generation (arxiv 2021) : [arxiv](https://arxiv.org/abs/2106.12445), [review](https://happy-jihye.github.io/gan/gan-21/), [code](https://github.com/happy-jihye/Cartoon-StyleGAN)
 - `BlendGAN`: Implicitly GAN Blending for Arbitrary Stylized Face Generation (NeurIPS 2021) : [arxiv](https://arxiv.org/abs/2110.11728), [project](https://onion-liu.github.io/BlendGAN/), [code](https://github.com/onion-liu/BlendGAN)
 - `HifiFace`: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping (IJCAI 2021) : [arxiv](https://arxiv.org/abs/2106.09965)
 - `AnimeGAN`: A Novel Lightweight GAN for Photo Animation (ISICA 2019)
@@ -116,6 +117,12 @@
 
 - `BSRGAN`: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution (ICCV 2021) : [arxiv](https://arxiv.org/abs/2103.14006), [code](https://github.com/cszn/BSRGAN)
 - `Real-ESRGAN`: Training Real-World Blind Super-Resolution with Pure Synthetic Data (ICCVW 2021): [arxiv](https://arxiv.org/abs/2107.10833), [code](https://github.com/xinntao/Real-ESRGAN)
+
+
+<span style='background-color: #E5EBF7;'> **Sketch based Generation** </span>
+
+- `GANSketching` : Sketch Your Own GAN (ICCV 2021) : [arxiv](https://arxiv.org/abs/2108.02774), [project](https://peterwang512.github.io/GANSketching/), [code](https://github.com/PeterWang512/GANSketching), [review](https://happy-jihye.github.io/gan/gan-36/)
+
 
 <span style='background-color: #E5EBF7;'> **3D GAN & Rendering** </span>
 
